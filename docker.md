@@ -12,3 +12,5 @@
    ```
       docker run -itd mysql --name mysqlDB -p 3306:3306
    ```
+4. docker安装各软件  
+   kafka:   https://blog.csdn.net/qq_41122834/article/details/108471054
