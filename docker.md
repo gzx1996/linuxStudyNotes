@@ -14,3 +14,6 @@
    ```
 4. docker安装各软件  
    kafka:   https://blog.csdn.net/qq_41122834/article/details/108471054
+   mysql:   https://segmentfault.com/a/1190000039147983
+   redis:   https://www.runoob.com/docker/docker-install-redis.html
+   mongo:   https://www.runoob.com/docker/docker-install-mongodb.html
